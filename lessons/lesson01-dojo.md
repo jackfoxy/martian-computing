@@ -30,7 +30,7 @@ At this point, there are three ways to work with Urbit:  Dojo, Landscape, and vi
 
 Urbit uses the Clay vane as its "filesystem"—really a version-controlled data store.  We can synchronize Clay with our Unix filesystem to edit files in using our favorite editor and share files with other users.
 
-To initialize your filesystem synchronization, run `|mount %` once.  This creates a `home/` directory with a number of standard child directories.
+To initialize your filesystem synchronization, run `|mount %home`.  This creates a `home/` directory with a number of standard child directories.
 
 To synchronize your Unix-side changes to Clay, run `|commit %home`.
 
