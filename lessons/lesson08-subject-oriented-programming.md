@@ -88,7 +88,7 @@ The current subject (Arvo) is `.`.  (Most of these values are actually hashes st
 ]
 ```
 
-- Reading: [Tlon Corporation, "The Subject and Its Legs", section "A Start"](https://urbit.org/docs/tutorials/hoon/the-subject-and-its-legs/)
+- Reading: [Tlon Corporation, "The Subject and Its Legs", section "A Start"](https://urbit.org/docs/hoon/hoon-school/the-subject-and-its-legs/)
 - Reading: [Tlon Corporation, "Limbs"](https://urbit.org/docs/reference/hoon-expressions/limb/limb/)
 - Reading: [Tlon Corporation, "Wings"](https://urbit.org/docs/reference/hoon-expressions/limb/wing/)
 - Reading: [Ted Blackman `~rovnys-ricfer`, "Why Hoon?"](https://urbit.org/blog/why-hoon/)
