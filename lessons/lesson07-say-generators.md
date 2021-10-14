@@ -121,7 +121,7 @@ Since the default value is `~`, if you are testing for the presence of named arg
 
 Note that, in all of these cases, you are writing a gate `|=` bartis which accepts `[* * ~]` or the like as sample.  Dojo (and Arvo generally) recognizes that `%say` generators have a special format and parse the command-line form into appropriate form for the gate itself.
 
-- Reading: [Tlon Corporation, "Generators"](https://urbit.org/docs/tutorials/hoon/generators/), sections "%say Generators", "%say generators with arguments", "Arguments without a cell"
+- Reading: [Tlon Corporation, "Generators"](https://urbit.org/docs/hoon/hoon-school/generators/), sections "%say Generators", "%say generators with arguments", "Arguments without a cell"
 
 ##  Worked Examples
 
