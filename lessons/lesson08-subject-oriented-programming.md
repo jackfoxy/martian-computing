@@ -135,7 +135,7 @@ This transparent introspection is extremely powerful, and you'll often see it em
 
 (Gates, therefore, are special cases of doors.  See [`%~` censig](https://urbit.org/docs/reference/hoon-expressions/rune/cen/#censig) for more information.)
 
-- Reading: [Tlon Corporation, "Doors"](https://urbit.org/docs/tutorials/hoon/hoon-school/doors/)
+- Reading: [Tlon Corporation, "Doors"](https://urbit.org/docs/hoon/hoon-school/doors/)
 
 ### Custom Samples
 
