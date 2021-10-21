@@ -211,7 +211,7 @@ Most of the time, `++expect-eq` is the only arm used.  `++expect-fail` works a b
 
 `|.` bardot is like `|-` barhep but defers evaluation instead.  Here we are using it to evaluate the expected failure later than compilation time.
 
-- Optional Reading: [Tlon Corporation, "Unit Testing with Ford"](https://web.archive.org/web/20200614210451/https://urbit.org/docs/tutorials/hoon/test-sets/)
+- Optional Reading: [Tlon Corporation, "Ford Overview"](https://urbit.org/docs/arvo/ford/ford#ford-runes)
 
 ![](../img/10-header-stars-2.png)
 
