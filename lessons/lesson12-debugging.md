@@ -73,7 +73,7 @@ If you really crash things hard—like crash the executable itself—then it's a
 
 Finally, although hinting at darker powers not yet unleashed, you can start a debugging console with `|start %dbug` and access it at your ship's URL followed by `~debug` (e.g., `http://localhost:8080/~debug`).
 
-- Reading: [Tlon Corporation, "Hoon Errors"](https://urbit.org/docs/tutorials/hoon/hoon-errors/)
+- Reading: [Tlon Corporation, "Hoon Errors"](https://urbit.org/docs/hoon/reference/hoon-errors)
 
 
 ##  Debugging Strategies
