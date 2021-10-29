@@ -61,7 +61,7 @@ A minimalist do-nothing default Gall app could look like this:
 ```
 
 - Reading: [Tlon Corporation, "Gall"](https://urbit.org/docs/tutorials/hoon/hoon-school/gall/)
-- Reading: [Tlon Corporation, "Gall Tutorial"](https://urbit.org/docs/tutorials/arvo/gall/)
+- Reading: [Tlon Corporation, "Gall Tutorial"](https://urbit.org/docs/userspace/gall/tutorial)
 
 
 ##  Events
